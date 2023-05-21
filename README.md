@@ -34,7 +34,7 @@
 
 #### Важность признаков
 
-![image](https://github.com/blinov-89/VK_network/assets/61515881/3856106c-7c1c-491c-b05e-1f0b7aa4c446)
+![image](https://github.com/blinov-89/VK_network/assets/61515881/de8cc4fd-4249-4cfa-9b95-cc98a8364bab)
 
 #### RMSE Fold2: 0.7317339398587932
 #### RMSE mean: 0.7315434900806901
