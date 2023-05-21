@@ -5,7 +5,7 @@
 
 #### Качество социального взаимодействия между пользователями ВКонтакте – почти всей аудиторией рунета
 
-#### Типичный граф для конкретного ego_id
+#### [Типичный граф для конкретного ego_id и его визуализация](https://github.com/blinov-89/VK_network/blob/main/graph_plot.ipynb)
 
 ![image](https://github.com/blinov-89/VK_network/assets/61515881/6bb0f592-4386-4b02-8349-3ae33fd9d772)
 
@@ -45,5 +45,5 @@
 
 #### [Ссылка на соревнование и лидерборд](https://cups.online/ru/workareas/digital_breakout_2023/793/1494)
 
-# Наше решение помогает пользователям находить новых друзей
+# [Наше решение помогает пользователям находить новых друзей](https://github.com/blinov-89/VK_network/blob/main/VK_solution.ipynb)
 
