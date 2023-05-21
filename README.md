@@ -1,4 +1,4 @@
-# Привет всем ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# Привет всем! ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
 # Это команда NETWORK и наше решение по кейсу 1 от Цифрового прорыва 2023 от VK
 Предсказание интенсивности взаимодействия между пользователями, основываясь на информации об интенсивности других связей и пользовательской информации
