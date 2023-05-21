@@ -29,9 +29,10 @@
 - фильтруем только нужные данные и удаляем дубликаты
 - мерджим к основым датасетам историю по пользователям
 
-Типичный граф для конкретного ego_id
+#### Типичный граф для конкретного ego_id
 
-![image](https://github.com/blinov-89/VK_network/assets/61515881/e0ea9908-731b-405e-ad44-5df753e76547)
+![image](https://github.com/blinov-89/VK_network/assets/61515881/6bb0f592-4386-4b02-8349-3ae33fd9d772)
+
 
 https://cups.online/ru/workareas/digital_breakout_2023/793/1494
 
