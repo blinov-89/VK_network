@@ -43,9 +43,7 @@
 #### RMSE Fold2: 0.7317339398587932
 #### RMSE mean: 0.7315434900806901
 
-#### Ссылка на лидерборд
-
-https://cups.online/ru/workareas/digital_breakout_2023/793/1494
+#### [Ссылка на лидерборд](https://cups.online/ru/workareas/digital_breakout_2023/793/1494)]
 
 # Наше решение помогает пользователям находить новых друзей
 
