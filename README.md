@@ -7,7 +7,7 @@
 
 #### [Типичный граф для конкретного ego_id и его визуализация](https://github.com/blinov-89/VK_network/blob/main/graph_plot.ipynb)
 
-![image](https://github.com/blinov-89/VK_network/assets/61515881/6bb0f592-4386-4b02-8349-3ae33fd9d772)
+![image](![image](https://github.com/blinov-89/VK_network/assets/61515881/f672d84e-03b4-420e-928b-8c3c4dfdb7e7))
 
 ## Задача регрессии с метрикой RMSE
 
