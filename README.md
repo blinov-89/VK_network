@@ -34,7 +34,8 @@
 ![image](https://github.com/blinov-89/VK_network/assets/61515881/6bb0f592-4386-4b02-8349-3ae33fd9d772)
 
 
-https://cups.online/ru/workareas/digital_breakout_2023/793/1494
+
+#### Важность признаков
 
 ![image](https://github.com/blinov-89/VK_network/assets/61515881/3856106c-7c1c-491c-b05e-1f0b7aa4c446)
 
@@ -43,6 +44,10 @@ https://cups.online/ru/workareas/digital_breakout_2023/793/1494
 
 #### RMSE Fold2: 0.7317339398587932
 #### RMSE mean: 0.7315434900806901
+
+#### Ссылка на лидерборд
+
+https://cups.online/ru/workareas/digital_breakout_2023/793/1494
 
 # Наше решение помогает пользователям находить новых друзей
 
